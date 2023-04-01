@@ -12,7 +12,7 @@
     padding: 20px 200px;
     align-items: center;
     padding-top: 30px;
-    background-color: #1795a8;
+    background-color: #24afc1;
     color: #f8f8f8;
 }
 
@@ -29,4 +29,8 @@
 
 .navbar ul li a:hover {
     color: #fccf47;
+}
+
+.active {
+    border-bottom: #fccf47 2px solid;
 }
