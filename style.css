@@ -32,16 +32,16 @@ body {
 }
 
 .navbar ul li a:hover {
-    color: #fccf47;
+    color: #1795a8;
 }
 
 .active {
-    border-bottom: #fccf47 2px solid;
+    border-bottom: #f8f8f8 2px solid;
 }
 
 .home-page {
     background-color: #f8f8f8;
-    padding: 10px 200px;
+    padding: 20px 200px;
 }
 
 .hero-banner {
@@ -79,4 +79,20 @@ body {
 
 .home-page button:hover {
     background-color: #1795a8;
+}
+
+.container-footer {
+    padding: 20px 200px;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 100px;
+    background-color: #24afc1;
+    color: #f8f8f8;
+}
+
+.footer-items img {
+    width: 30px;
+    margin-left: 20px;
 }
