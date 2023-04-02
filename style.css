@@ -10,6 +10,7 @@ body {
     background-color: #f8f8f8;
 }
 
+/* Awal CSS navbar */
 .container-navbar {
     display: flex;
     justify-content: space-between;
@@ -38,6 +39,9 @@ body {
     border-bottom: #f8f8f8 2px solid;
 }
 
+/* Akhir CSS navbar */
+
+/* Awal CSS home page */
 .home-page {
     background-color: #f8f8f8;
     padding: 40px 200px;
@@ -80,6 +84,9 @@ body {
     background-color: #1795a8;
 }
 
+/* Akhir CSS home page */
+
+/* Awal CSS footer */
 .container-footer {
     padding: 30px 200px;
     display: flex;
@@ -99,3 +106,30 @@ body {
 .footer-items img:hover {
     background-color: #1795a8;
 }
+/* Akhir CSS footer */
+
+
+/* Awal CSS about page */
+.container-about {
+    padding: 20px 200px;
+    text-align: center;
+}
+
+.about-img {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 250px;
+    
+}
+
+.container-about img {
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+    border: #1795a8 3px solid;
+    border-radius: 100%;
+
+}
+
+/* Akhir CSS abou page */
