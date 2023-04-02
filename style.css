@@ -112,7 +112,6 @@ body {
 /* Awal CSS about page */
 .container-about {
     padding: 20px 200px;
-    text-align: center;
 }
 
 .about-img {
@@ -127,7 +126,6 @@ body {
     height: 200px;
     width: 200px;
     object-fit: cover;
-    border: #1795a8 3px solid;
     border-radius: 100%;
 
 }
