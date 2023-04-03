@@ -200,7 +200,8 @@ body {
 }
 
 .container-contact button {
-    padding: 10px 202px;
+    padding: 10px 30px;
+    width: 500px;
     background-color: #24afc1;
     border: 0;
     cursor: pointer;
