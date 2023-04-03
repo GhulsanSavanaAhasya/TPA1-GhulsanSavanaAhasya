@@ -167,5 +167,50 @@ body {
     border-radius: 10px;
     
 }
-
 /* Akhir CSS project page */
+
+/* Awal CSS contact Page */
+.container-contact {
+    padding: 50px 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 50px;
+    
+}
+
+.title-contact {
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+.contact-form {
+    margin-top: 50px;
+    margin-bottom: -20px;
+}
+
+.contact-form input, textarea{
+    width: 500px;
+    padding: 8px 10px;
+    outline: none;
+    border: none;
+    border-bottom: 3px solid #1795a8;
+    background-color: transparent;
+    font-size: 16px;
+}
+
+.container-contact button {
+    padding: 10px 202px;
+    background-color: #24afc1;
+    border: 0;
+    cursor: pointer;
+    color: #f8f8f8;
+    border-radius: 3px;
+    margin-top: 70px;
+}
+
+.container-contact button:hover {
+    background-color: #1795a8;
+}
+
+/* Akhir CSS contact Page */
